@@ -1,4 +1,10 @@
-# MyAndroidTemplate
+# Offline-First Android XML Template
+
+![Android](https://img.shields.io/badge/Android-XML-green)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.3.0-blueviolet)
+![Architecture](https://img.shields.io/badge/Architecture-MVVM%20%7C%20Clean-brightgreen)
+![Offline](https://img.shields.io/badge/Offline--First-Yes-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 Offline-First • XML • MVVM • Clean Architecture • Single Source of Truth (SSOT)
 
@@ -225,5 +231,6 @@ Guarantees:
 
 ## License
 
-Free to use and modify.  
-Attribution appreciated.
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for full details.
